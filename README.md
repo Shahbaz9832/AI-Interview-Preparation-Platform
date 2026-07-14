@@ -2,6 +2,11 @@
 
 An AI-powered web application that helps job seekers prepare for interviews by analyzing a company's Job Description and the candidate's profile to generate personalized interview preparation reports.
 
+## 🌐 Live Demo
+
+👉 **https://ai-interview-preparation-platform-five.vercel.app**
+
+
 ## 🚀 Features
 
 - 🔐 Secure User Authentication
