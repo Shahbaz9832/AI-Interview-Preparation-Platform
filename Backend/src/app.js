@@ -9,7 +9,7 @@ app.use(cookieParser())
 app.use(cors({
     origin: ["http://localhost:5173",
              "https://ai-interview-preparation-platf-git-25c3c1-shahbaz9832s-projects.vercel.app"
-             ]
+             ],
     credentials: true
 }))
 
